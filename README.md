@@ -1,4 +1,4 @@
-# [Hi there! I'm Hanifah Arrasyidah 👋](https://github.com/hanifahar)
+# Hi there! [I'm Hanifah Arrasyidah 👋](https://github.com/hanifahar29)
 #### <em>Data Enthusiast | Tech-Savvy | Passionate Learner</em>
 
 I’m a data enthusiast passionate about transforming raw information into clear, actionable insights. My background blends analytical thinking with creativity—whether it’s building dashboards, automating reports, or exploring datasets with Python, I enjoy diving deep to make data tell a story.
